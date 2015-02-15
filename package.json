@@ -1,0 +1,16 @@
+{
+  "name": "react-deputy",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Tools for integrating Deputy and React ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "deputy"
+  ],
+  "author": "James K Nelson <james@numbattech.com>",
+  "license": "private"
+}
